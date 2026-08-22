@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-ev8y2x.mpo1221brm.lat/sitemap.xml
